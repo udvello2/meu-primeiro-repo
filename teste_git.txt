@@ -1,1 +1,2 @@
-Este ‚ um teste de atualiza‡Æo do GIT.
+Este Ã© um novo teste de atualizaâ€¡Ã†o do GIT.
+Feito por Daniel Velloso em 19/10/2022 - 12:00
