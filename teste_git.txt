@@ -1,9 +1,11 @@
-Este È um novo teste de atualizaÁ„o do GIT.
+Este √© um novo teste de atualiza√ß√£o do GIT.
 Feito por Daniel Velloso em 19/10/2022 - 12:00
-Outro teste de atualizaÁ„o com acentos È possÌvel.
+Outro teste de atualiza√ß√£o com acentos √© poss√≠vel.
 
-Agora estou fazendo um teste de acentuaÁ„o pelo
-GITHUB para ver se È possÌvel em modo cross
+Agora estou fazendo um teste de acentua√ß√£o pelo
+GITHUB para ver se √© poss√≠vel em modo cross
 
 teste 4
-acentuaÁ„o È possÌvel ou n„o
+acentua√ß√£o √© poss√≠vel ou n√£o
+
+de volta para o dir
