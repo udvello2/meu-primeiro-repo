@@ -1,2 +1,3 @@
-Este Ã© um novo teste de atualizaâ€¡Ã†o do GIT.
+Este é um novo teste de atualização do GIT.
 Feito por Daniel Velloso em 19/10/2022 - 12:00
+Outro teste de atualização com acentos é possível.
