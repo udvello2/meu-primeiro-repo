@@ -1,6 +1,9 @@
-Este Ã© um novo teste de atualizaÃ§Ã£o do GIT.
+Este é um novo teste de atualização do GIT.
 Feito por Daniel Velloso em 19/10/2022 - 12:00
-Outro teste de atualizaÃ§Ã£o com acentos Ã© possÃ­vel.
+Outro teste de atualização com acentos é possível.
 
-Agora estou fazendo um teste de acentuaÃ§Ã£o pelo
-GITHUB para ver se Ã© possÃ­vel em modo cross
+Agora estou fazendo um teste de acentuação pelo
+GITHUB para ver se é possível em modo cross
+
+teste 4
+acentuação é possível ou não
