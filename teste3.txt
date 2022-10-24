@@ -1,0 +1,2 @@
+Este é o meu 3º teste de arquivo com acentuação para gravação 
+no formato de gravação padrão (UTF-8).
