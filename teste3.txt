@@ -1,2 +1,7 @@
 Este é o meu 3º teste de arquivo com acentuação para gravação 
 no formato de gravação padrão (UTF-8).
+
+Agora que deu certo vou colocar masi coisas acentuadas aqui deste lado para validar o processo:
+1º
+2ª 
+3º caso de acentuação á pouco digitado em princípio.
